@@ -1,1 +1,7 @@
 hello world!
+
+new line added.
+
+new line 2.
+
+new line 3.
