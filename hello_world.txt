@@ -1,5 +1,6 @@
 hello world!
 
+<<<<<<< HEAD
 i hate myself
                                 ∩
 
@@ -129,3 +130,10 @@ i hate myself
 　　＼＼
 
            U
+=======
+new line added.
+
+new line 2.
+
+new line 3.
+>>>>>>> 56061a6b98ca7e346460fe4f030bbbaa9f627d10
