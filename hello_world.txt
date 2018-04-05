@@ -136,4 +136,9 @@ new line added.
 new line 2.
 
 new line 3.
+<<<<<<< HEAD
 >>>>>>> 56061a6b98ca7e346460fe4f030bbbaa9f627d10
+=======
+
+another line.
+>>>>>>> aea73ee5cdf9c5680754e90f98cf19ae2304500e
